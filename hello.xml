@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <note>
-  <to>Aarthi</to>
-  <from>Manisha</from>
+<<<<<<< HEAD
+  <to>Tove</to>
+  <from>Jani</from>
+=======
+  <to>Tove</to>
+  <from>Jani</from>
+>>>>>>> GitWork
   <heading>Reminder</heading>
   <body>Don't forget me this weekend!</body>
 </note>
